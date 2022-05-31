@@ -1,5 +1,6 @@
-
-![GIF](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <a href="https://github-readme-stats.vercel.app/api?username=itssabhishek&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='github stats'/>

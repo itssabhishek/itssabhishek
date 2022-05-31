@@ -1,16 +1,38 @@
-### Hi there 👋
+<div style="text-align: center;">
+    <iframe src="https://giphy.com/embed/gLcUG7QiR0jpMzoNUu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cool-okay-hacker-gLcUG7QiR0jpMzoNUu">via GIPHY</a></p>
+</div>
 
-<!--
-**itssabhishek/itssabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github-readme-stats.vercel.app/api?username=itssabhishek&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='github stats'/>
+</a>
+<a href="https://github.com/itssabhishek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='MUL'/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+
+
+
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itssabhishek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="itssabhishek" /></p>

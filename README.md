@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://giphy.com/gifs/cool-okay-hacker-gLcUG7QiR0jpMzoNUu">
+    <img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif">
 </div>
 
 <a href="https://github-readme-stats.vercel.app/api?username=itssabhishek&count_private=true&show_icons=true&theme=chartreuse-dark">

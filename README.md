@@ -1,13 +1,11 @@
-<div style="text-align: center;">
-    <img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif">
-</div>
 
+![Uploading giphy.gif…]()
 
 <a href="https://github-readme-stats.vercel.app/api?username=itssabhishek&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='github stats'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='github stats'/>
 </a>
 <a href="https://github.com/itssabhishek">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='MUL'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssabhishek&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt='MUL'/>
 </a>
 
 

@@ -25,7 +25,7 @@
 
 ### Technologies
 
-![Next](https://img.shields.io/badge/-Next-000?&logo=Next)
+![Next](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
